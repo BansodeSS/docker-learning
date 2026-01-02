@@ -1,0 +1,25 @@
+# Docker
+*.log
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.tar.gz
+
+# Personal notes (optional)
+personal-notes/

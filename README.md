@@ -1,0 +1,59 @@
+# 🐳 Docker Learning Journey
+
+My personal repository documenting my Docker learning path from basics to advanced concepts.
+
+## 📚 Learning Structure
+
+### Week 1: Fundamentals
+- [Day 1: Installation & Setup](./day-01-installation/)
+- [Day 2: Basic Docker Commands](./day-02-basic-commands/)
+- [Day 3: Running Your First Container](./day-03-first-container/)
+- [Day 4: Dockerfile Basics](./day-04-dockerfile-basics/)
+- [Day 5: Building Optimized Images](./day-05-building-images/)
+- [Day 6: Volumes & Data Persistence](./day-06-volumes/)
+- [Day 7: Container Networking](./day-07-networking/)
+
+### Week 2: Advanced Concepts
+- [Day 8: Docker Compose Basics](./day-08-docker-compose/)
+- [Day 9: Multi-Container Applications](./day-09-multi-container-app/)
+- [Day 10: Best Practices & Production](./day-10-best-practices/)
+
+## 🎯 Goals
+- [ ] Complete all 10 days
+- [ ] Build at least 3 real projects
+- [ ] Understand production deployments
+- [ ] Create reusable Docker configurations
+
+## 📊 Progress
+
+| Day | Topic | Status | Date |
+|-----|-------|--------|------|
+| 1 | Installation | ⏳ Not Started | 2/1/2026 |
+| 2 | Basic Commands | ⏳ Not Started | - |
+| 3 | First Container | ⏳ Not Started | - |
+| 4 | Dockerfile Basics | ⏳ Not Started | - |
+| 5 | Building Images | ⏳ Not Started | - |
+| 6 | Volumes | ⏳ Not Started | - |
+| 7 | Networking | ⏳ Not Started | - |
+| 8 | Docker Compose | ⏳ Not Started | - |
+| 9 | Multi-Container | ⏳ Not Started | - |
+| 10 | Best Practices | ⏳ Not Started | - |
+
+Status Legend: ⏳ Not Started | 🔄 In Progress | ✅ Completed
+
+## 🚀 Projects Built
+*Will be updated as I progress*
+
+## 📝 Key Learnings
+*Will be updated with major insights*
+
+## 🔗 Resources
+See [resources.md](./resources.md) for curated learning materials.
+
+## 📧 Contact
+*[Your details if you want to share]*
+
+---
+
+**Started**: [Your start date]  
+**Last Updated**: [Date]
