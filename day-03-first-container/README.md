@@ -252,13 +252,14 @@ docker exec web ping db
 **Date**: ___________
 
 **Projects Completed**:
-- [ ] Static website with Nginx
-- [ ] Redis database
-- [ ] PostgreSQL database
-- [ ] Python Flask application
+- [✅] Static website with Nginx
+- [✅] Redis database
+- [✅] PostgreSQL database
+- [✅] Python Flask application
 
 **Screenshots**:
-*Add screenshots of each running application*
+[![alt text](first-website-launch.jpg)
+![alt text](first-website.jpg)]
 
 **Commands Used**:
 ```
