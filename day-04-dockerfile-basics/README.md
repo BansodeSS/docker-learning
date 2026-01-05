@@ -384,13 +384,15 @@ docker build --build-arg APP_VERSION=2.0 -t myapp:2.0 .
 **Date**: ___________
 
 **Projects Built**:
-- [ ] HTML static website
-- [ ] Python Flask application
+- [✅] HTML static website
+- [✅] Python Flask application
 - [ ] Node.js Express application
 
 **Dockerfiles Created**:
 ```
-[Paste your Dockerfiles here]
+[docker-learning/day-04-dockerfile-basics/Project-1/Dockerfile
+docker-learning/day-04-dockerfile-basics/Project-2/Dockerfile
+]
 ```
 
 **Build Commands**:

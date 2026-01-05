@@ -31,7 +31,7 @@ My personal repository documenting my Docker learning path from basics to advanc
 | 1 | Installation | ✅ Completed | 2/1/2026 |
 | 2 | Basic Commands | ✅ Completed | 3/1/2026 |
 | 3 | First Container | ✅ Completed | 4/1/2026 |
-| 4 | Dockerfile Basics | ⏳ Not Started | - |
+| 4 | Dockerfile Basics | ✅ Completed | 5/1/2026 |
 | 5 | Building Images | ⏳ Not Started | - |
 | 6 | Volumes | ⏳ Not Started | - |
 | 7 | Networking | ⏳ Not Started | - |
