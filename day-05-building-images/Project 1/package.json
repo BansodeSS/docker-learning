@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "scripts": {
+    "build": "echo 'Building...' && mkdir -p dist && echo 'console.log(\"Hello\")' > dist/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
