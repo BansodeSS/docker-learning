@@ -33,7 +33,7 @@ My personal repository documenting my Docker learning path from basics to advanc
 | 3 | First Container | ✅ Completed | 4/1/2026 |
 | 4 | Dockerfile Basics | ✅ Completed | 5/1/2026 |
 | 5 | Building Images | ✅ Completed | 6/1/2026 |
-| 6 | Volumes | ⏳ Not Started | - |
+| 6 | Volumes | ✅ Completed | 7/1/2026 |
 | 7 | Networking | ⏳ Not Started | - |
 | 8 | Docker Compose | ⏳ Not Started | - |
 | 9 | Multi-Container | ⏳ Not Started | - |
