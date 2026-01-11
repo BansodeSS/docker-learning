@@ -36,7 +36,7 @@ My personal repository documenting my Docker learning path from basics to advanc
 | 6 | Volumes | ✅ Completed | 7/1/2026 |
 | 7 | Networking | ✅ Completed | 8/1/2026 |
 | 8 | Docker Compose | ✅ Completed | 9/1/2026 |
-| 9 | Multi-Container | ⏳ Not Started | - |
+| 9 | Multi-Container | ✅ Completed | 11/1/2026 |
 | 10 | Best Practices | ⏳ Not Started | - |
 
 Status Legend: ⏳ Not Started | 🔄 In Progress | ✅ Completed
